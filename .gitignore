@@ -6,7 +6,6 @@
 capybara-*.html
 .rspec
 .DS_Store
-Gemfile.lock
 *.log
 db/*.sqlite3
 .bundle
